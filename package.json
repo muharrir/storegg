@@ -14,6 +14,7 @@
     "@types/node": "20.2.4",
     "@types/react": "18.2.7",
     "@types/react-dom": "18.2.4",
+    "aos": "^3.0.0-beta.6",
     "autoprefixer": "10.4.14",
     "eslint": "8.41.0",
     "eslint-config-next": "13.4.4",
@@ -32,9 +33,9 @@
     "@storybook/nextjs": "^7.0.17",
     "@storybook/react": "^7.0.17",
     "@storybook/testing-library": "^0.0.14-next.2",
+    "@types/aos": "^3.0.4",
     "eslint-plugin-storybook": "^0.6.12",
     "prettier": "^2.8.8",
-    "prettier-plugin-tailwindcss": "^0.3.0",
     "storybook": "^7.0.17"
   }
 }
